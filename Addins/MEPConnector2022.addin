@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>MEP Connector 2022</Name>
+    <Assembly>MEPConnector2022.dll</Assembly>
+    <FullClassName>MEPConnector.Application</FullClassName>
+    <ClientId>B31111F3-772B-4207-8C1A-891689F73BB4</ClientId>
+    <VendorId>LICORP</VendorId>
+    <VendorDescription>Software Licorp - MEP Connector for Revit 2022</VendorDescription>
+  </AddIn>
+</RevitAddIns>

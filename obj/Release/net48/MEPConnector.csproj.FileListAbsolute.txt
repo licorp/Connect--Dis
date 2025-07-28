@@ -1,0 +1,7 @@
+d:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release\net48\MEPConnector.csproj.AssemblyReference.cache
+d:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release\net48\MEPConnector.GeneratedMSBuildEditorConfig.editorconfig
+d:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release\net48\MEPConnector.csproj.CoreCompileInputs.cache
+d:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\bin\Release\net48\MEPConnector.dll
+d:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\bin\Release\net48\MEPConnector.pdb
+d:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release\net48\MEPConnector.dll
+d:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release\net48\MEPConnector.pdb
