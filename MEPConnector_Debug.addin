@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>MEP Connector Debug</Name>
+    <Assembly>d:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\bin\Debug\net48\MEPConnector.dll</Assembly>
+    <AddInId>1e7e2b2e-2022-4b2e-8e22-2022b2e2b2e2</AddInId>
+    <FullClassName>MEPConnector.Application</FullClassName>
+    <VendorId>LICO</VendorId>
+    <VendorDescription>Software Licorp - Debug Mode</VendorDescription>
+  </AddIn>
+</RevitAddIns>

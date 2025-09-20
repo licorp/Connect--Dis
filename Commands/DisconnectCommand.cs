@@ -58,17 +58,6 @@ namespace MEPConnector.Commands
                     {
                         trans.Commit();
                         
-                        string resultMessage = "Đã ngắt kết nối thành công giữa hai element.";
-                        if (element1Unpinned || element2Unpinned)
-                        {
-                            resultMessage += " Các element đã được tự động unpin.";
-                        }
-                        
-                        // Hiển thị thông báo thành công ngắn gọn
-                        System.Windows.Forms.MessageBox.Show(resultMessage, "Thành công", 
-                            System.Windows.Forms.MessageBoxButtons.OK, 
-                            System.Windows.Forms.MessageBoxIcon.Information);
-                        
                         return Result.Succeeded;
                     }
                     else

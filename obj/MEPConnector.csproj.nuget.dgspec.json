@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\OneDrive\\Desktop\\Software Licorp\\Modify\\Connect -Dis\\MEPConnector.csproj",
-        "projectName": "MEPConnector2025",
+        "projectName": "MEPConnectorV4_2022",
         "projectPath": "D:\\OneDrive\\Desktop\\Software Licorp\\Modify\\Connect -Dis\\MEPConnector.csproj",
         "packagesPath": "C:\\Users\\quoc.nguyen\\.nuget\\packages\\",
         "outputPath": "D:\\OneDrive\\Desktop\\Software Licorp\\Modify\\Connect -Dis\\obj\\",
@@ -49,7 +49,7 @@
       "frameworks": {
         "net48": {
           "targetAlias": "net48",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

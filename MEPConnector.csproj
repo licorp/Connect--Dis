@@ -20,6 +20,8 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\Autodesk\Revit 2022\Revit.exe</StartProgram>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -61,7 +63,7 @@
     <DefineConstants>TRACE;REVIT2022</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <AssemblyName>MEPConnector2022</AssemblyName>
+    <AssemblyName>MEPConnectorV4_2022</AssemblyName>
   </PropertyGroup>
 
   <!-- Revit 2023 Configuration -->
@@ -94,7 +96,7 @@
     <DefineConstants>TRACE;REVIT2025</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <AssemblyName>MEPConnector2025</AssemblyName>
+    <AssemblyName>MEPConnectorV4_2025</AssemblyName>
   </PropertyGroup>
 
   <!-- Revit 2026 Configuration -->

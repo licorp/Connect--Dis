@@ -5,3 +5,4 @@ D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2021\net48\ME
 D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2021\net48\MEPConnector.csproj.CoreCompileInputs.cache
 D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2021\net48\MEPConnector2021.dll
 D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2021\net48\MEPConnector2021.pdb
+D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2021\net48\MEPConnector.sourcelink.json
