@@ -4,23 +4,52 @@
 Add-in cho Autodesk Revit với tính năng kết nối các MEP family (Mechanical, Electrical, Plumbing).
 **Hỗ trợ từ Revit 2020 đến 2026!**
 
+## Version History
+
+| Version | Date | Description |
+|---------|------|-------------|
+| **v1.3.0** | 2025-03-30 | Thêm Align Branch, Disconnect batch mode, Update Pipe Endpoint |
+| **v1.2.0** | 2025-03-22 | Tối ưu code, tinh gọn, sửa lỗi kết nối |
+| **v1.1.0** | 2025-03-15 | Thêm tính năng Disconnect, cải thiện Move Connect |
+| **v1.0.0** | 2025-03-01 | Phiên bản đầu tiên - Move Connect, Move Connect Align |
+
 ## Tính năng chính
 
 ### 1. Move Connect
 - **Mô tả**: Di chuyển và kết nối hai MEP family
-- **Cách sử dụng**: 
-  1. Click vào MEP family đích (destination)
-  2. Click vào MEP family muốn di chuyển (source)
-  3. Family source sẽ được di chuyển và kết nối với family destination
+- **Cách sử dụng**:
+1. Click vào MEP family đích (destination)
+2. Click vào MEP family muốn di chuyển (source)
+3. Family source sẽ được di chuyển và kết nối với family destination
 
 ### 2. Move Connect Align
 - **Mô tả**: Di chuyển, căn chỉnh và kết nối hai MEP family một cách chính xác
 - **Cách sử dụng**:
-  1. Click vào MEP family đích (destination) 
-  2. Click vào MEP family muốn di chuyển (source)
-  3. Family source sẽ được di chuyển, căn chỉnh hướng và kết nối hoàn hảo với family destination
+1. Click vào MEP family đích (destination)
+2. Click vào MEP family muốn di chuyển (source)
+3. Family source sẽ được di chuyển, căn chỉnh hướng và kết nối hoàn hảo với family destination
 
-### 3. Tính năng Unpin tự động
+### 3. Align Branch ✨ NEW
+- **Mô tả**: Căn chỉnh các nhánh ống/duct về ống chính theo cơ chế Microdesk
+- **Cách sử dụng**:
+1. Click vào ống chính (main)
+2. Chọn các nhánh cần căn chỉnh
+3. Các nhánh sẽ được di chuyển vuông góc với ống chính
+- **Ưu điểm**: Tự động tìm connector đầu hở, hỗ trợ fitting/equipment
+
+### 4. Disconnect ✨ NEW
+- **Mô tả**: Ngắt kết nối MEP elements - hỗ trợ single hoặc batch mode
+- **Single mode**: Chọn 1 element → ngắt tất cả kết nối
+- **Batch mode**: Chọn nhiều elements → ngắt tất cả cùng lúc
+
+### 5. Update Pipe Endpoint ✨ NEW
+- **Mô tả**: Kéo endpoint của Pipe/Duct đến đối tượng đích và tự động kết nối
+- **Cách sử dụng**:
+1. Click vào Pipe/Duct cần kéo endpoint
+2. Click vào đối tượng đích để kết nối
+- **Lặp lại**: Tiếp tục chọn cặp mới hoặc ESC để thoát
+
+### 6. Tính năng Unpin tự động
 - Tự động unpin các element trước khi thực hiện kết nối nếu chúng đang bị pin
 - Thông báo cho người dùng khi thực hiện unpin
 
