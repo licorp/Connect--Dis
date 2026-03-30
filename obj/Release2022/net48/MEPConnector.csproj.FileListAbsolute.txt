@@ -1,8 +1,0 @@
-D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2022\net48\MEPConnector.csproj.AssemblyReference.cache
-D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2022\net48\MEPConnector.GeneratedMSBuildEditorConfig.editorconfig
-D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2022\net48\MEPConnector.csproj.CoreCompileInputs.cache
-D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2022\net48\MEPConnector.sourcelink.json
-D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\bin\Release2022\net48\MEPConnectorV4_2022.dll
-D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\bin\Release2022\net48\MEPConnectorV4_2022.pdb
-D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2022\net48\MEPConnectorV4_2022.dll
-D:\OneDrive\Desktop\Software Licorp\Modify\Connect -Dis\obj\Release2022\net48\MEPConnectorV4_2022.pdb
