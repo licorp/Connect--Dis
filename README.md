@@ -8,10 +8,10 @@ Add-in cho Autodesk Revit với tính năng kết nối các MEP family (Mechani
 
 | Version | Date | Description |
 |---------|------|-------------|
-| **v1.3.0** | 2025-03-30 | Thêm Align Branch, Disconnect batch mode, Update Pipe Endpoint |
-| **v1.2.0** | 2025-03-22 | Tối ưu code, tinh gọn, sửa lỗi kết nối |
-| **v1.1.0** | 2025-03-15 | Thêm tính năng Disconnect, cải thiện Move Connect |
-| **v1.0.0** | 2025-03-01 | Phiên bản đầu tiên - Move Connect, Move Connect Align |
+| **v1.3.0** | 2026-03-30 | Thêm Align Branch, Disconnect batch mode, Update Pipe Endpoint |
+| **v1.2.0** | 2026-03-05 | Tối ưu code, tinh gọn, sửa lỗi kết nối |
+| **v1.1.0** | 2026-02-15 | Thêm tính năng Disconnect, cải thiện Move Connect |
+| **v1.0.0** | 2026-01-10 | Phiên bản đầu tiên - Move Connect, Move Connect Align |
 
 ## Tính năng chính
 
